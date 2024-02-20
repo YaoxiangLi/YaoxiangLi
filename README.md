@@ -7,4 +7,4 @@
 - **Domains:** Data Analysis, Machine Learning, Bioinformatics
 - **Tools:** LSTM, GRU, Deep Learning, CouchDB
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaoxiangLi&show_icons=true&theme=dracula&count_private=true)
+![YaoxiangLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaoxiangLi&show_icons=true&theme=dracula&count_private=true)
