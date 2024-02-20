@@ -7,4 +7,4 @@
 - **Domains:** Data Analysis, Machine Learning, Bioinformatics
 - **Tools:** LSTM, GRU, Deep Learning, CouchDB
 
-Let's connect and collaborate on making science open and accessible to all!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaoxiangLi&show_icons=true&theme=dracula&count_private=true)
